@@ -1,0 +1,12 @@
+python-3.9.0
+
+flask
+flask_restx
+flask_sqlalchemy
+python_decouple
+python_dotenv
+flask_migrate
+flask_jwt_extended
+pytest
+gunicorn
+psycopg2-binary
